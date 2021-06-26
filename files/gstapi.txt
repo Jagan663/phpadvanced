@@ -1,0 +1,52 @@
+URL : https://sunsofttech.in/updateapiauth.php
+
+header 
+
+Name = srinivastraders
+Verify = Abc@123
+
+
+[
+	{
+		"gstno":"29Abc" //Required
+		"company":null,
+		"eway_limit":null,
+		"gst_user":null,
+		"gst_pass":null,
+		"eway_user":null,
+		"eway_pass":null,
+		"gst_auth":null,
+		"gst_expiry_dateNtime":null,
+		"eway_auth":null,
+		"eway_dateNtime":null
+	}
+]
+
+ //if no value then mention null.
+
+OUTPUT : updated successfully.
+---------------------------------------------------------------------------------------------------
+
+URL : https://sunsofttech.in/getapicount.php
+
+header 
+
+Name = srinivastraders
+Verify = Abc@123
+
+{
+	"gst":""
+}
+
+OUTPUT : {"count":"149","gst_auth":"","eway_auth":""}
+
+
+
+-----------------------------------------------------------------------------------------------
+
+get date and time api
+
+URL : https://sunsofttech.in/getdate.php
+
+
+OUTPUT : "2021-01-27 14:13:09"

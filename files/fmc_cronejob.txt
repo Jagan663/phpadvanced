@@ -1,0 +1,8 @@
+
+Minute	Hour	Day	Month	Weekday	Command	Actions
+35	23	*	*	*	/usr/local/bin/ea-php56 /home/fmcindia/public_html/updateandflush.php 94486@suncomputer	    
+0	*	*	*	*	/usr/local/bin/ea-php56 /home/fmcindia/public_html/updatelegsscript.php 94486	    
+48	23	*	*	3	/usr/local/bin/ea-php56 /home/fmcindia/public_html/insertadminwallet.php 94486	    
+30	23	*	*	*	/usr/local/bin/ea-php56 /home/fmcindia/public_html/updateandflush.php 94486@suncomputer	    
+40	23	*	*	*	/usr/local/bin/ea-php56 /home/fmcindia/public_html/updateandflush.php 94486@suncomputer	    
+45	23	*	*	*	/usr/local/bin/ea-php56 /home/fmcindia/public_html/updateandflush.php 94486@suncomputer

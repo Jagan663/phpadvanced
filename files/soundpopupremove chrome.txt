@@ -1,0 +1,2 @@
+chrome://flags/#hardware-media-key-handling
+type in url and run the browser and disable Hardware Media Key Handling
